@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Kali Linux" width="40" height="40"/>  
   </a>  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>  
   </a>  
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>  
