@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />  
   </a>  
   <a href="mailto:nabilaazizah128@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img src="https://github.com/get-icon/geticon/blob/master/icons/google-gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
