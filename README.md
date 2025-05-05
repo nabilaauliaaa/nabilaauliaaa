@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Nabila Aulia A.! 🚀</h1>  
-<h3 align="center">Final-Year Information Systems Student | Cybersecurity & UI/UX Enthusiast</h3>  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabilaauliaaa&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">3rd year Information Systems Student | Cybersecurity, Front-End Developer and UI/UX Designer</h3>  
+
 
 <p align="center">  
   🔐 Exploring <strong>Cybersecurity, Network Security, & Red Teaming</strong> <br>  
@@ -53,3 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilaauliaaa&show_icons=true&layout=compact&theme=radical" alt="Languages Used" />  
 </p>  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nabilaauliaaa&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
