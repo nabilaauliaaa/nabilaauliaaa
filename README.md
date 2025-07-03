@@ -3,7 +3,7 @@
 
 
 <p align="center">  
-  🔐 Exploring <strong>Cybersecurity, Network Security, & Red Teaming</strong> <br>  
+  🔐 Exploring <strong>Cybersecurity, Network Security, Junior Penetration Testing & Red Teaming</strong> <br>  
   🎨 Passionate about <strong>UI/UX Design & Web Development</strong> <br>  
   🌍 Based in <strong>Bali, Indonesia</strong>
 </p>
